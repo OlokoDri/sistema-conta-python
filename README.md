@@ -106,4 +106,6 @@ Feito por Adriano 🚀
 
 ### 🔗 GitHub
 
-:contentReference[oaicite:0]{index=0}
+## 🔗 GitHub
+
+[Meu Perfil](https://github.com/OlokoDri)
