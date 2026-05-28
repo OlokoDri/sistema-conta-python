@@ -104,8 +104,6 @@ Durante o desenvolvimento deste projeto foram aplicados conhecimentos importante
 
 Feito por Adriano 🚀
 
-### 🔗 GitHub
-
 ## 🔗 GitHub
 
 [Meu Perfil](https://github.com/OlokoDri)
